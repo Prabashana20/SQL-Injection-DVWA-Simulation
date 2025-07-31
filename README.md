@@ -10,7 +10,7 @@ This repository documents a SQL Injection vulnerability exploitation done in a s
 ## 🧪 Tools Used
 - DVWA on XAMPP
 - Kali Linux as the attacking system
-- Firefox/Chrome for testing
+- Firefox for testing
 
 ## 📂 Files
 - `SQL_Injection_Report.pdf` – Full written assignment
